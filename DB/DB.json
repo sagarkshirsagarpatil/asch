@@ -1,0 +1,48 @@
+{
+"product":[
+{
+  "id":1,
+  "name":"samsung",
+  "color":"black",
+  "price":15000,
+  "category":"mobile",
+  "brand":"samsung",
+  "photo":"123"
+},
+{
+                    "id":2,
+                    "name":"samsung",
+                    "color":"black",
+                    "price":15000,
+                    "category":"mobile",
+                    "brand":"samsung",
+                    "photo":"123"
+                  },
+                  {
+                    "id":3,
+                    "name":"samsung",
+                    "color":"black",
+                    "price":15000,
+                    "category":"mobile",
+                    "brand":"samsung",
+                    "photo":"123"
+                  },
+                  {
+                    "id":4,
+                    "name":"samsung",
+                    "color":"black",
+                    "price":15000,
+                    "category":"mobile",
+                    "brand":"samsung",
+                    "photo":"123"
+                  },{
+                    "id":5,
+                    "name":"samsung",
+                    "color":"black",
+                    "price":15000,
+                    "category":"mobile",
+                    "brand":"samsung",
+                    "photo":"123"
+                  }
+]
+}
